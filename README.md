@@ -16,8 +16,8 @@ This project involves analyzing sentiment in stock news headlines using Natural 
 
 3. Visualization
 
-Line Charts: Visualized sentiment trends over time for each company using Seaborn and Matplotlib.
-Heatmaps and Bar Charts: Provided additional insights into sentiment patterns.
+- Line Charts: Visualized sentiment trends over time for each company using Seaborn and Matplotlib.
+- Heatmaps and Bar Charts: Provided additional insights into sentiment patterns.
 
 4. WordCloud Generation
 
